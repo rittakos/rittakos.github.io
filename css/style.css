@@ -76,6 +76,13 @@ hr {
   padding: 0;
 }
 
+.avatar {
+  vertical-align: middle;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
 .navbar {
   text-transform: uppercase;
   margin-bottom: 0px;
