@@ -76,6 +76,10 @@ hr {
   padding: 0;
 }
 
+.aligncenter {
+  text-align: center;
+}
+
 .avatar {
   vertical-align: middle;
   width: 150px;
