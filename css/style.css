@@ -102,8 +102,10 @@ hr {
   }
 }
 .navbar-inverse {
-  background-color: #1abc9c;
-  border-color: #16a085;
+  /* background-color: #1abc9c;
+  border-color: #16a085; */
+  background-color: #32527b;
+  border-color: #406392;
 }
 
 .navbar-inverse .navbar-nav>li>a {
@@ -129,7 +131,7 @@ hr {
 }
 
 .progress-bar-theme {
-  background-color: #1abc9c;
+  background-color: #32527b;
 }
 
 /* Helpers */
