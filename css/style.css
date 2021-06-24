@@ -41,6 +41,10 @@ p {
   text-align: center;
 }
 
+.cover{
+  border-radius: 50%;
+}
+
 /* Links */
 
 a {
